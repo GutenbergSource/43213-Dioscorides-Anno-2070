@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>Anno 2070. Een blik in de toekomst</dc:title>
+      <dc:creator>Dr. Dioscorides [Pseud. van Pieter Harting (1812–1885)]</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2013-07-14</dc:publisher>
+      <dc:date>2013-07-14</dc:date>
+      <dc:rights>Dit eBoek is voor kosteloos gebruik door iedereen overal, met vrijwel geen beperkingen van welke soort dan ook. U mag het kopiëren, weggeven of hergebruiken onder de voorwaarden van de Project Gutenberg Licentie bij dit eBoek of on-line op www.gutenberg.org.
+Dit eBoek is geproduceerd door het on-line gedistribueerd correctieteam op www.pgdp.net.
+Eerdere drukken van dit werk verschenen onder de titel Anno 2065. Een blik in de toekomst.
+</dc:rights>
+      <dc:subject>Prophecies</dc:subject>
+      <dc:subject>Utopias</dc:subject>
+      <dc:description>Een utopische beschrijving van de toekomst, door Pieter Harting, een Nederlands bioloog en fysisch geograaf. Dit boekje is oorspronkelijk uitgeven in 1870, en geeft een aantal leuke voorspellingen. Natuurlijk zag de schrijver in zijn voorwoord zelf al in dat dit boekje al ver voor 2070 geheel achterhaald zou zijn.</dc:description>
+      <dc:identifier>pg:43213</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
